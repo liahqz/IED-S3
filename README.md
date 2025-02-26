@@ -1,1 +1,2 @@
-Códigos usados em IED. Utilizando JavaScript.
+# IED-S3
+Códigos usados nas aulas e atividades de IED. Utilizando JavaScript.
