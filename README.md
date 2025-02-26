@@ -1,2 +1,2 @@
 # IED-S3
-Códigos usados nas aulas e atividades de IED. Utilizando JavaScript.
+Códigos usados nas aulas e atividades de IED. Utilizando Java.
